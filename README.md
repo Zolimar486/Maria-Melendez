@@ -1,6 +1,6 @@
-# Landing Page for Ecommerce
+# Landing Page for E-commerce
 
-#### Tecnologies implemented on the Projec
+#### Technologies implemented on the Project
 
 
 
